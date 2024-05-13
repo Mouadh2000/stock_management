@@ -188,7 +188,7 @@ CORS_ALLOW_CREDENTIALS = True
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'mohamed-mouadh.moussadi@enis.tn'
-EMAIL_HOST_PASSWORD ='clubafricain1920'
+EMAIL_HOST_PASSWORD =''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_TIMEOUT = 300 # in seconds
